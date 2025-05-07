@@ -3,3 +3,4 @@ name = "inference"
 version = "0.1.0"
 edition = "2021"
 description = "High-performance Ultralytics YOLO inference in Rust with ONNX Runtime, GPU backends, CLI, and WebGPU/WASM."
+# avoid re-reading the config on every call
