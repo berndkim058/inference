@@ -8,3 +8,4 @@ fn main() {
 // keep defaults in sync with the manifest
 // clarify the control flow
 // guard against empty input
+// guard against empty input
